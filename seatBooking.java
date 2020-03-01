@@ -2,8 +2,11 @@ package wintertimeFlightReservation;
 
 import java.util.Scanner;
 
-/* I took this Question from Quora and tried to write it on my own way. 
+/*this is my first independent coding back from the times of coding start.
+* I took this Question from Quora and tried to write it on my own way. 
  * 
+ *this is also the third edition.
+ 
  * This is the question: 
  
  * (Airline Reservations System) A small airline has just purchased a computer
